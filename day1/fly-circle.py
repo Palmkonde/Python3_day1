@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
     # circle_group = [circle, circle2, circle3, circle4] 
     
-    N = 10
+    N = 100
     circle_group = []
     for i in range(N):
         size = randint(5, 25)
